@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5686970-F227-430D-ADDB-EC232752A60F}|Solution Items{C5686970-F227-430D-ADDB-EC232752A60F}|C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\SQl.Queries||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5686970-F227-430D-ADDB-EC232752A60F}|Solution Items{C5686970-F227-430D-ADDB-EC232752A60F}|solutionrelative:SQl.Queries||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798E0E26-4F68-4B39-B40E-A4D51FCB6A25}|ExamBot.Server\\ExamBot.Server.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.server\\botlistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798E0E26-4F68-4B39-B40E-A4D51FCB6A25}|ExamBot.Server\\ExamBot.Server.csproj|solutionrelative:exambot.server\\botlistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.bll\\services\\filldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|solutionrelative:exambot.bll\\services\\filldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|solutionrelative:exambot.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.dal\\entities\\filldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|solutionrelative:exambot.dal\\entities\\filldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.bll\\services\\ifilldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|solutionrelative:exambot.bll\\services\\ifilldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|solutionrelative:exambot.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.bll\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A341318D-92F0-42A3-837C-A5C9E377E1EE}|ExamBot.Bll\\ExamBot.Bll.csproj|solutionrelative:exambot.bll\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.dal\\entityconfigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|solutionrelative:exambot.dal\\entityconfigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|solutionrelative:exambot.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{798E0E26-4F68-4B39-B40E-A4D51FCB6A25}|ExamBot.Server\\ExamBot.Server.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{798E0E26-4F68-4B39-B40E-A4D51FCB6A25}|ExamBot.Server\\ExamBot.Server.csproj|solutionrelative:exambot.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|c:\\projects\\fourthmodul_exam.nomozov\\exambot\\exambot.dal\\exambot.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABF7CC8D-50F6-48A9-99D6-43BE45785299}|ExamBot.Dal\\ExamBot.Dal.csproj|solutionrelative:exambot.dal\\exambot.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +63,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SQl.Queries",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\SQl.Queries",
+              "RelativeDocumentMoniker": "SQl.Queries",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\SQl.Queries",
+              "RelativeToolTip": "SQl.Queries",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-13T07:23:42.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FillDataService.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\FillDataService.cs",
+              "RelativeDocumentMoniker": "ExamBot.Bll\\Services\\FillDataService.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\FillDataService.cs",
+              "RelativeToolTip": "ExamBot.Bll\\Services\\FillDataService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:18:47.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BotListenerService.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Server\\BotListenerService.cs",
+              "RelativeDocumentMoniker": "ExamBot.Server\\BotListenerService.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Server\\BotListenerService.cs",
+              "RelativeToolTip": "ExamBot.Server\\BotListenerService.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAuwAkBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:14:35.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ExamBot.Bll\\Services\\UserService.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\UserService.cs",
+              "RelativeToolTip": "ExamBot.Bll\\Services\\UserService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:38:02.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ExamBot.Bll\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\IUserService.cs",
+              "RelativeToolTip": "ExamBot.Bll\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:38:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFillDataService.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\IFillDataService.cs",
+              "RelativeDocumentMoniker": "ExamBot.Bll\\Services\\IFillDataService.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Bll\\Services\\IFillDataService.cs",
+              "RelativeToolTip": "ExamBot.Bll\\Services\\IFillDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:19:42.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FillData.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\Entities\\FillData.cs",
+              "RelativeDocumentMoniker": "ExamBot.Dal\\Entities\\FillData.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\Entities\\FillData.cs",
+              "RelativeToolTip": "ExamBot.Dal\\Entities\\FillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:23:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ExamBot.Dal\\Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\Entities\\User.cs",
+              "RelativeToolTip": "ExamBot.Dal\\Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:33:36.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\EntityConfigurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ExamBot.Dal\\EntityConfigurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\EntityConfigurations\\UserConfiguration.cs",
+              "RelativeToolTip": "ExamBot.Dal\\EntityConfigurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:48:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\MainContext.cs",
+              "RelativeDocumentMoniker": "ExamBot.Dal\\MainContext.cs",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\MainContext.cs",
+              "RelativeToolTip": "ExamBot.Dal\\MainContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:55:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Server\\Program.cs",
               "RelativeDocumentMoniker": "ExamBot.Server\\Program.cs",
               "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Server\\Program.cs",
               "RelativeToolTip": "ExamBot.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T04:20:42.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExamBot.Dal",
+              "DocumentMoniker": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\ExamBot.Dal.csproj",
+              "RelativeDocumentMoniker": "ExamBot.Dal\\ExamBot.Dal.csproj",
+              "ToolTip": "C:\\Projects\\FourthModul_Exam.Nomozov\\ExamBot\\ExamBot.Dal\\ExamBot.Dal.csproj",
+              "RelativeToolTip": "ExamBot.Dal\\ExamBot.Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T04:49:35.911Z",
               "EditorCaption": ""
             }
           ]

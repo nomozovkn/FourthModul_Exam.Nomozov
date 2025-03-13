@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamBot.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9457eaa0d8d8ed7a9ef19e9a4b74b48a768b59ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamBot.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamBot.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
